@@ -2,14 +2,9 @@ Cisco Packet Tracer Enterprise Network Labs 🌐
 
 This repository showcases practical networking labs, topologies, and configurations built in **Cisco Packet Tracer** as part of my CCNA certification preparation. Each folder contains the original `.pkt` simulation file alongside full documentation, configuration snippets, and verification screenshots.
 
----
 Lab Directory
 
 1. **[Lab 01: Inter-VLAN Routing & DHCP Configuration](./Lab01-InterVLAN-Routing)**
-2. **[Lab 02: Multi-Area OSPF Dynamic Routing](./Lab02-OSPF-Routing)** *(Example placeholder—rename to match your labs)*
-3. **[Lab 03: Standard & Extended ACL Security](./Lab03-ACL-Security)** *(Example placeholder—rename to match your labs)*
-
----
 
  Featured Lab: Inter-VLAN Routing & DHCP
 
@@ -17,8 +12,9 @@ Lab Directory
 Design and configure a segmented small-office network across three departments (IT, HR, and Sales) using Router-on-a-Stick (ROAS) to enable inter-VLAN communication and centralized DHCP IP address allocation.
 
 Network Topology
-![Inter-VLAN Topology Diagram](<img width="1408" height="658" alt="image 1" src="https://github.com/user-attachments/assets/1ec7f458-b8a1-4e5e-86b0-f502990b2019" />
-)
+![Inter-VLAN Topology Diagram]
+<img width="1408" height="658" alt="image 1" src="https://github.com/user-attachments/assets/f3f4e2b8-0450-465c-8a30-99c25b46c010" />
+
 *(Tip: Upload your screenshot into an `images` folder in your repo and match the filename above)*
 
  Key Skills & Protocols Demonstrated
